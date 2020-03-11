@@ -11,7 +11,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   Luis Escobar Reche     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Jose Armando Albarado Mamani     :octocat:
 
 ----- 
 
