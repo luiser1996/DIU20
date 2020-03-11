@@ -10,7 +10,7 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
+ * :bust_in_silhouette:   Luis Escobar Reche     :octocat:     
  * :bust_in_silhouette:  BB     :octocat:
 
 ----- 
