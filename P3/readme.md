@@ -22,10 +22,10 @@ Como tipografía principal de la aplicación hemos decidido optar por una tipogr
 A continuación adjunto un par de imágenes de cada tipo de fuente:
 
 Roboto:
-![roboto](P3/roboto.png)
+![roboto](roboto.png)
 
 Open Sans:
-![opensans](P3/opensans.png)
+![opensans](opensans.png)
 
 -Fuente de las imágenes: https://medium.muz.li/top-5-ui-fonts-for-website-mobile-apps-d78829e58f7e
 
@@ -38,7 +38,7 @@ Títulos en las cabeceras o en las barras de navegación: Blanca
 
 Nuestro objetivo es jugar con el blanco y el negro, proporcionando así una aplicación que emplea colores básicos y que pretende dar gran importancia a su contenido. Por tanto, el objetivo principal y por el cual usamos estos colores básicos es conseguir que el usuario se vea más impresionado por el contenido de nuestra aplicación como imágenes de lugares a los que viajar, imágenes compartidas por usuarios, etc. Un ejemplo para ilustrar el camino por el que queremos orientar nuestra aplicación:
 
-![colores](P3/colores.png)
+![colores](colores.png)
 
 -Fuente de la imagen: 
 https://material.io/design/color/applying-color-to-ui.html#typography-and-iconography 
@@ -53,7 +53,7 @@ En relación a la organización de las imágenes queremos organizar las imágene
 
 Para el patrón de navegación hemos de decidido implementar la navegación con tabuladores en la parte inferior de nuestra App. La navegación con tabuladores en las aplicaciones móviles ha ido adquiriendo gran importancia y es bastante utilizada pues proporciona una navegación fluida entre las diferentes secciones de nuestra App. Además, es bastante intuitiva pues cuenta con iconos y una pequeña descripción que ayudan al usuario a entender cada una de las secciones disponibles, adjunto un pequeño ejemplo de navegación con tabuladores en Apps:
 
-![patrones](P3/patrones.png)
+![patrones](patrones.png)
 
 Fuente de la imagen: 
 https://dribbble.com/shots/7057842-Tab-bar-menu-navigation
