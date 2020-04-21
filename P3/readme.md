@@ -59,7 +59,7 @@ Fuente de la imagen:
 https://dribbble.com/shots/7057842-Tab-bar-menu-navigation
 
 ## Historia en Video del UX Case Study
-![video](video.mp4)
+[video](video.mp4)
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
