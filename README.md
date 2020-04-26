@@ -172,7 +172,9 @@ En cuanto a otro método que hubiésemos usado pensamos que llamar a un experto 
 Hemos usado para diseñarlo la herramienta [TailorBrands](https://www.tailorbrands.com/es/logo-maker). Esta herramienta es gratis pero se necesita la version pro para guardar los logos en varias resoluciones.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
-----Como tipografía principal de la aplicación hemos decidido optar por una tipografía moderna, sencilla y que sea perfectamente legible: Roboto. Roboto es una fuente de uso libre de Google Fonts. Esta tipografía la podemos combinar con otra tipografía como por ejemplo Open Sans, la cual es también muy utilizada, de uso libre y desarrollada por Google Fonts. Por tanto como tipografía principal empleamos Roboto y como tipografía secundaria Open Sans. Respecto al tamaño de fuente hemos decidido seguir los estándares, para Roboto se recomienda usar un tamaño de 14-18px para el contenido principal mientras que para las cabeceras un tamaño de 28-34px. Respecto a Open Sans también seguimos los estándares, es decir, utilizar un tamaño de 12-16px para contenidos principales y un tamaño de 24-30px para cabeceras.
+----
+
+Como tipografía principal de la aplicación hemos decidido optar por una tipografía moderna, sencilla y que sea perfectamente legible: Roboto. Roboto es una fuente de uso libre de Google Fonts. Esta tipografía la podemos combinar con otra tipografía como por ejemplo Open Sans, la cual es también muy utilizada, de uso libre y desarrollada por Google Fonts. Por tanto como tipografía principal empleamos Roboto y como tipografía secundaria Open Sans. Respecto al tamaño de fuente hemos decidido seguir los estándares, para Roboto se recomienda usar un tamaño de 14-18px para el contenido principal mientras que para las cabeceras un tamaño de 28-34px. Respecto a Open Sans también seguimos los estándares, es decir, utilizar un tamaño de 12-16px para contenidos principales y un tamaño de 24-30px para cabeceras.
 A continuación adjunto un par de imágenes de cada tipo de fuente:
 
 Roboto:
