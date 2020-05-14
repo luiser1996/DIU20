@@ -7,19 +7,19 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 Hemos evaluado al equipo [DIU1.MGM](https://github.com/Manu8G/DIU20), que hizo una valoración de la aplicacion web Nomadizers.
 
-[Hoja de valoración](P4/valoracion1.xls)
+[Hoja de valoración](P4/UXCaseStudy-review_DIU1_MGM.xls)
 
 ## Caso 2
 
 Hemos evaluado a el equipo [DIU2.Mjolnir](https://github.com/Nintwarr/DIU20), que ha hecho un análisis a la página web [Compartetupiso.com](compartetupiso.com), en general está bastante completa y bien estructurada.
 
-[Hoja de valoración](P4/valoracion2.xls)
+[Hoja de valoración](P4/UXCaseStudy-review_DIU2_Mjolnir.xls)
 
 ## Caso 3
 
 Hemos evaluado al equipo [DIU3.Learning](https://github.com/salva12345678/DIU), que hizo una valoración de una aplicación para aprender idiomas.
 
-[Hoja de valoración](P4/valoracion3.xls) 
+[Hoja de valoración](P4/UXCaseStudy-review_DIU3_Learning.xls) 
 
 ## User Testing
 
@@ -37,4 +37,4 @@ Hemos elegido a [María Martínez García](P1/Persona1.png)
 
 ## Conclusiones
 
-En general al realizar un estudio acerca de los tres proyectos propuestos por el profesor, hemos llegado a la conclusión de que crear personas ficticias coherentes y que representen a una persona cualquiera hoy en dia es importante, ya al fin y al cabo las personas normales y comunes son las que llegarán a utilizar nuestra aplicación, luego crear una persona ficticia poco coherente no tendría ninguna aportación positiva en el desarrollo de nuestro proyecto. Por otro lado, también hemos llegado a la conclusión de que crear buenos bocetos es esencial para que otra persona pueda comprender nuestro proyecto y además nos ayuda a encontrar posibles errores o elementos ambiguos que afectarán de mala manera a nuestra aplicación. Además, si se realizan de forma clara y correcta ayudarán a ver si nuestro proyecto avanza en buen camino.
+En general al realizar un estudio acerca de los tres proyectos propuestos por el profesor, hemos llegado a la conclusión de que crear personas ficticias coherentes y que representen a una persona cualquiera hoy en dia es importante, ya al fin y al cabo las personas normales y comunes son las que llegarán a utilizar nuestra aplicación, luego crear una persona ficticia poco coherente no tendría ninguna aportación positiva en el desarrollo de nuestro proyecto. Por otro lado, también hemos llegado a la conclusión de que crear buenos bocetos es esencial para que otra persona pueda comprender nuestro proyecto y además nos ayuda a encontrar posibles errores o elementos ambiguos que afectarán de mala manera a nuestra aplicación. Además, si se realizan de forma clara y correcta ayudarán a ver si nuestro proyecto avanza en buen camino. Por último, también creemos que desarrolar un buen user journey map es de gran importancia pues nos ayudará a estudiar posibles acciones y dificultades que encuentra un usuario a la hora de buscar nuestra aplicación o a la hora de usar nuestra aplicación. Un ejemplo perfecto es el caso de museMapp en el que gracias al user journey map se consiguió obtener información importante acerca del comportamiento de las personas, sobre cual sería la mejor forma de acercar la aplicación a ellos y que les sea muy facil de utilizar.
