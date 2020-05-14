@@ -225,59 +225,49 @@ https://dribbble.com/shots/7057842-Tab-bar-menu-navigation
 ----
 
 
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+### Caso 1
 
->>>> Práctica A: 
+Hemos evaluado al equipo [DIU1.MGM](https://github.com/Manu8G/DIU20), que hizo una valoración de la aplicacion web Nomadizers.
 
+[Hoja de valoración](P4/UXCaseStudy-review_DIU1_MGM.xls)
+
+### Caso 2
+
+Hemos evaluado a el equipo [DIU2.Mjolnir](https://github.com/Nintwarr/DIU20), que ha hecho un análisis a la página web [Compartetupiso.com](compartetupiso.com), en general está bastante completa y bien estructurada.
+
+[Hoja de valoración](P4/UXCaseStudy-review_DIU2_Mjolnir.xls)
+
+### Caso 3
+
+Hemos evaluado al equipo [DIU3.Learning](https://github.com/salva12345678/DIU), que hizo una valoración de una aplicación para aprender idiomas.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Usuarios para evaluar prácticas 
+Hemos elegido a [María Martínez García](P1/Persona1.png)
 
+	Situación de DIU1.MGM experiencia de Jesus Garrido:
+	Maria en esta situación tambien se iria de viaje, pero se encontraria con el problema de que al entrar en la pagina de Nomadizers hay que registrarse para ver algo. La experiencia de Maria seria parecida a la que sigue en nuestra aplicación, pediria ayuda a un amigo para controlar la pagina y probablemente habria acabado igual.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+	Situación de DIU2.Mjölnir experiencia de Javier Roldán:
+	María es una persona irresponsable e indecisa, luego encontrar un piso para compartir le costaría bastante. Pero como es una persona simpática seguro encontrará algun compañero que al descubrir como es la personalidad de maría, no le importe compartir piso con ella. Otro problema que encuentra maría es que no domina otro idioma que no sea el español, luego compartir piso con una persona que hable español también se resultará un gran problema.
 
+	Situación de DIU3.Learning experiencia de Manuel Molina Muñoz:
+	Maria en esta situación habria intentado mejorar su inglés, ya que tenia bajo nivel. Al encontrar la pagina veria que esta en español, y podria haberse apuntado sin problemas. Al ser grupos presenciales con gente Maria habria estado agusto y su experiencia acabaria siendo muy satisfactoria.
 
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](img/Survey.png). 4.c Ranking
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.c Usability Report
-----
-
->> Añadir report de usabilidad para práctica B 
-
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
-
+1º) DIU3.Learning 79pts
+2º) DIU2.Mjolnir 74pts
+3º) DIU1.MGM 71pts
 
 
 ## Conclusión / Valoración de las prácticas
 
-
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
+En general al realizar un estudio acerca de los tres proyectos propuestos por el profesor, hemos llegado a la conclusión de que crear personas ficticias coherentes y que representen a una persona cualquiera hoy en dia es importante, ya al fin y al cabo las personas normales y comunes son las que llegarán a utilizar nuestra aplicación, luego crear una persona ficticia poco coherente no tendría ninguna aportación positiva en el desarrollo de nuestro proyecto. 
+Por otro lado, también hemos llegado a la conclusión de que crear buenos bocetos es esencial para que otra persona pueda comprender nuestro proyecto y además nos ayuda a encontrar posibles errores o elementos ambiguos que afectarán de mala manera a nuestra aplicación. Además, si se realizan de forma clara y correcta ayudarán a ver si nuestro proyecto avanza en buen camino. 
+Por último, también creemos que desarrolar un buen user journey map es de gran importancia pues nos ayudará a estudiar posibles acciones y dificultades que encuentra un usuario a la hora de buscar nuestra aplicación o a la hora de usar nuestra aplicación. Un ejemplo perfecto es el caso de museMapp en el que gracias al user journey map se consiguió obtener información importante acerca del comportamiento de las personas, sobre cual sería la mejor forma de acercar la aplicación a ellos y que les sea muy facil de utilizar.
 
 
 
