@@ -221,7 +221,7 @@ https://dribbble.com/shots/7057842-Tab-bar-menu-navigation
 ## Paso 4. UX Check (Usability Testing) 
 
 
-![Método UX](img/ABtesting.png) 4.a A/B Testing
+![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
 
@@ -240,6 +240,8 @@ Hemos evaluado a el equipo [DIU2.Mjolnir](https://github.com/Nintwarr/DIU20), qu
 ### Caso 3
 
 Hemos evaluado al equipo [DIU3.Learning](https://github.com/salva12345678/DIU), que hizo una valoración de una aplicación para aprender idiomas.
+
+[Hoja de valoración](P4/UXCaseStudy-review_DIU3_Learning.xls)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
